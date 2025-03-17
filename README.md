@@ -10,7 +10,7 @@ This repository contains both deterministic and probabilistic models, all of whi
 
 The training data consists of 1D molecular chain mechanical responses under varying temperatures and deformation gradients.
 
-## 1. Deterministic Models
+### 1. Deterministic Models
 
 The deterministic folder includes active learning methods for both classification and regression:
 
@@ -22,7 +22,7 @@ The deterministic folder includes active learning methods for both classificatio
 **Improved Greedy Sampling (IGS)**  
 
 
-## 2. Probabilistic Models
+### 2. Probabilistic Models
 
 The probabilistic folder contains three active learning methods:  
 **Greedy Sampling (GS)**  
@@ -33,5 +33,5 @@ The probabilistic folder contains three active learning methods:
 
 ## Contact  
 For any issues or questions related to the code, feel free to contact the author:  
-- **Yingbin Chen, yingbin-chen@uiowa.edu**  
+**Yingbin Chen, yingbin-chen@uiowa.edu**  
 
