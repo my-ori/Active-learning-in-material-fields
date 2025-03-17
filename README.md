@@ -14,12 +14,12 @@ The training data consists of 1D molecular chain mechanical responses under vary
 
 The deterministic folder includes active learning methods for both classification and regression:
 
-1. Classification: 
- **Uncertainty Sampling**
-2. Regression:
- **Greedy Sampling (GS)**
- **Greedy Sampling on the Output (GSO)**
- **Improved Greedy Sampling (IGS)**
+1. Classification:  
+ **Uncertainty Sampling**  
+2. Regression:  
+ **Greedy Sampling (GS)**  
+ **Greedy Sampling on the Output (GSO)**  
+ **Improved Greedy Sampling (IGS)**  
 
 
 ## 2. Probabilistic Models
