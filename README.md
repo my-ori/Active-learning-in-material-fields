@@ -22,18 +22,16 @@ Greedy Sampling on the Output (GSO)
 Improved Greedy Sampling (IGS)
 
 
+## 2. Probabilistic Models
 
+The probabilistic folder contains three active learning methods:
 
+Greedy Sampling (GS)
+Greedy Sampling on the Output with Kullback-Leibler Divergence (GSO-KL)
+Improved Greedy Sampling with Kullback-Leibler Divergence (IGS-KL)
+(KL divergence is used as a metric to quantify the difference between two probability distributions.)
 
-
-
-
-
-
-
-Both the deterministic and probabilistic are uploaded. The code can be run on the Jupyter Notebook. The needed data are uploaded as well. 
-In this repository, the training data is 1D molecular chain mechanical response under different temperatures and deformation gradients. In the deterministic folder, the active learning methods include both classification and regression. The classification method we used in this paper is uncertainty sampling and the regression method we used is the Greedy Sampling (GS) and its variations Greedy Sampling on the Output (GSO) and Improved Greedy Sampling (IGS). In the probabilistic folder, there are three active learning methods. One is GS, and other two proposed methods called GSO-KL and IGS-KL, here KL is the metric to quantify the difference between two distributions. 
-
-
-Any problems when running the code, feel free to contact the author: Yingbin Chen, yingbin-chen@uiowa.edu
+## Contact
+For any issues or questions related to the code, feel free to contact the author:
+Yingbin Chen, yingbin-chen@uiowa.edu
 
