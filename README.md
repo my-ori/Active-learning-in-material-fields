@@ -15,24 +15,23 @@ The training data consists of 1D molecular chain mechanical responses under vary
 The deterministic folder includes active learning methods for both classification and regression:
 
 1. Classification:  
- **Uncertainty Sampling**  
+**Uncertainty Sampling**  
 2. Regression:  
- **Greedy Sampling (GS)**  
- **Greedy Sampling on the Output (GSO)**  
- **Improved Greedy Sampling (IGS)**  
+**Greedy Sampling (GS)**  
+**Greedy Sampling on the Output (GSO)**  
+**Improved Greedy Sampling (IGS)**  
 
 
 ## 2. Probabilistic Models
 
-The probabilistic folder contains three active learning methods:
-
-- **Greedy Sampling (GS)**
-- **Greedy Sampling on the Output with Kullback-Leibler Divergence (GSO-KL)**
-- **Improved Greedy Sampling with Kullback-Leibler Divergence (IGS-KL)**
+The probabilistic folder contains three active learning methods:  
+**Greedy Sampling (GS)**  
+**Greedy Sampling on the Output with Kullback-Leibler Divergence (GSO-KL)**  
+**Improved Greedy Sampling with Kullback-Leibler Divergence (IGS-KL)**  
   
-*(KL divergence is used as a metric to quantify the difference between two probability distributions.)*
+*(KL divergence is used as a metric to quantify the difference between two probability distributions.)*  
 
-## Contact
-For any issues or questions related to the code, feel free to contact the author:
-- **Yingbin Chen, yingbin-chen@uiowa.edu**
+## Contact  
+For any issues or questions related to the code, feel free to contact the author:  
+- **Yingbin Chen, yingbin-chen@uiowa.edu**  
 
