@@ -35,3 +35,6 @@ The probabilistic folder contains three active learning methods:
 For any issues or questions related to the code, feel free to contact the author:  
 **Yingbin Chen, yingbin-chen@uiowa.edu**  
 
+## Acknowledgement
+
+This material is based upon work supported by the National Science Foundation under Grant Number 2104383 and the U.S. Department of Education under Grant Number ED#P116S210005. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation and the U.S. Department of Education.
